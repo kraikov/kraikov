@@ -2,8 +2,8 @@
 
 #### A passionate Software Engineer with vast experience in Blockchain and Web3 Technologies.
 
-[![GitHub ntsd](https://img.shields.io/github/followers/kraikov?label=follow&style=social&cacheSeconds=86400)](https://github.com/kraikov)
-[![Linkedin ntsd](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krasimir-raykov-85ab63b4&cacheSeconds=864000)](https://www.linkedin.com/in/krasimir-raykov-85ab63b4)
+[![GitHub kraikov](https://img.shields.io/github/followers/kraikov?label=follow&style=social&cacheSeconds=86400)](https://github.com/kraikov)
+[![Linkedin kraikov](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krasimir-raykov-85ab63b4&cacheSeconds=864000)](https://www.linkedin.com/in/krasimir-raykov-85ab63b4)
 
 
 <details>
